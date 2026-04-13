@@ -1,0 +1,30 @@
+# JobSearchAI — Python dependencies
+# Install with: pip install -r requirements.txt
+
+# Web UI 
+streamlit>=1.35.0
+
+# Data handling 
+pandas>=2.0.0
+openpyxl>=3.1.0                
+
+# PDF parsing 
+pdfplumber>=0.10.0
+
+# Semantic similarity / embeddings 
+sentence-transformers>=3.0.0
+
+# Anthropic provider 
+anthropic>=0.40.0
+claude-agent-sdk>=0.1.0         
+
+# OpenAI provider 
+openai>=1.40.0
+openai-agents>=0.0.10          
+
+# Google Gemini provider 
+google-adk>=0.3.0              
+google-genai>=0.8.0           
+
+# LangSmith tracing 
+langsmith>=0.1.80
