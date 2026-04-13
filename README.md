@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="JobSearchAI banner"/>
+  <img src="banner.gif" alt="JobSearchAI banner" width="680"/>
 </p>
 
 # JobSearchAI 🔍
