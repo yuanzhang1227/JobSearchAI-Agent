@@ -179,7 +179,7 @@ You can also type a custom model name by selecting **"Custom..."** from the mode
 
 ### Step 2 — Enter your API key
 
-Paste your API key for the selected provider into the sidebar field. 
+Paste your API key for the selected provider into the sidebar field.
 
 ### Step 3 — Load your CV
 
@@ -209,11 +209,11 @@ Use the **💬 Conversation** chat box to:
 
 Under **Saved Excel Files**, select the results file, preview it in-app, or click **Download selected Excel file**.
 
-All output is saved to `~/JobSearchAI/` on your machine: `JobSearchAI_results.xlsx` 
+All output is saved to `~/JobSearchAI/` on your machine: `JobSearchAI_results.xlsx`
 
 ---
 
-## LangSmith Tracing 
+## LangSmith Tracing
 
 [LangSmith](https://smith.langchain.com) is a platform for tracing, debugging, and monitoring LLM-powered applications. To enable LangSmith tracing, create your own LangSmith API key in **Settings → API Keys → Create API Key**, then paste it into the **LangSmith API Key** field in the app.
 
