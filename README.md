@@ -102,11 +102,7 @@ Use the **💬 Conversation** chat box to:
 
 Under **Saved Excel Files**, select the results file, preview it in-app, or click **Download selected Excel file**.
 
-All output is saved to `~/JobSearchAI/` on your machine:
-
-| File | Description |
-|------|-------------|
-| `JobSearchAI_results.xlsx` | 
+All output is saved to `~/JobSearchAI/` on your machine: `JobSearchAI_results.xlsx` 
 
 ---
 
